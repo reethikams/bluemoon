@@ -1,0 +1,143 @@
+body{
+    background-color:rgb(162, 205, 243)
+}
+.logo{
+    height: 8rem;
+    width: 8rem;
+    border-radius: 4rem;
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+.tool{
+   display: flex;
+   
+}
+.headlogo{
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    list-style:none;
+}
+
+li{
+    margin-left: 0.7rem;
+    margin-top: 0.4rem;
+    margin-right: 0.8rem;
+}
+a:hover{
+    color:aliceblue;
+    font-weight: bolder;
+}
+a{
+    text-decoration: none;
+    font-size: 1.7rem;
+    color: rgb(42, 42, 94);
+    text-decoration-color: aliceblue;
+}
+h1{
+    margin-top: 3.5rem;
+    margin-left: 16rem;
+    font-size: 2.4rem;
+}
+#home{
+    margin-top: 4rem;
+}
+.heading{
+    background-color: rgb(95 145 238);
+    width: 100%;
+    height: 10rem;
+    margin-top: 2.5rem;
+    border-radius: 2rem;
+}
+#about{
+    margin-top: 4rem;
+    display: flex;
+}
+.body1{
+    width: 48%;
+    background-color: rgb(135, 174, 246);
+    height:45rem;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    border-radius: 2rem;
+}
+p{
+    font-size:2rem;
+    margin-left: 1.5rem;
+    font-style: italic;
+    font-weight:500;
+    text-indent: 5rem;
+}
+.body2{
+    width: 48%;
+    background-color: rgb(135, 174, 246);
+    height:45rem;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    border-radius: 2rem;
+}
+
+h2{
+    margin-top: 4rem;
+    margin-left: 14rem;
+    font-size: 2rem;
+}
+h3{
+    margin-left: 5rem;
+    font-size: 2rem;
+}
+.body2child1{
+    margin-top: 4rem;
+}
+.stagepic{
+    margin-top: 1.5rem;
+    margin-left: 3rem;
+    width: 27rem;
+    height: 18rem;
+    border-radius: 2rem;
+}
+.body2child2{
+    display: flex;
+}
+.picsideimg{
+    margin-top: 1.5rem;
+}
+.beachpic{
+    margin-top: 5rem;
+    margin-left: 3rem;
+    width: 38rem;
+    height: 35rem;
+    border-radius: 18rem;
+}
+h4{
+    margin-left: 12rem;
+    font-size: 2.8rem;
+    margin-top: 7.5rem;
+    font-style: italic;
+    color: rgb(104, 104, 149);
+}
+.service{
+    display: flex;
+}
+.serof{
+    margin-left: 14.5rem;
+    font-size: 2.5rem;
+    font-style: italic;
+}
+.serviceoff{
+    list-style:circle;
+}
+.contactinfo{
+    margin-top: 4rem;
+    background-color: rgb(135, 174, 246);
+    width: 80%;
+    height: 6rem;
+    font-size: 2rem;
+    padding-left: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem ;
+    display: flex;
+    margin-left: 8rem;
+    border-radius: 4rem;
+}
